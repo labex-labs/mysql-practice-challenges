@@ -22,7 +22,7 @@ This course contains lots of challenges for MySQL, each challenge is a small MyS
 |      09 | 🎯 Adding Unique Constraint to City Names (Challenge)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301281'>Start Challenge</a> |
 |      10 | 🎯 Query Is So Slow (Challenge)                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301385'>Start Challenge</a> |
 |      11 | 🎯 Backup MySQL Database with Mysqldump (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301285'>Start Challenge</a> |
-|      12 | 🎯 Mastering MySQL Database Management (Challenge)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301337'>Start Challenge</a> |
+|      12 | 🎯 MySQL Database Management (Challenge)                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301337'>Start Challenge</a> |
 |      13 | 🎯 Operate the Course Table (Challenge)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300383'>Start Challenge</a> |
 |      14 | 🎯 Extending Entity with Custom Properties (Challenge... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300357'>Start Challenge</a> |
 |      15 | 🎯 Change Default Value for Countrylanguage Table (Ch... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301291'>Start Challenge</a> |
@@ -49,7 +49,7 @@ This course contains lots of challenges for MySQL, each challenge is a small MyS
 |      36 | 🎯 Comprehensive MySQL Data Manipulation (Challenge)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301333'>Start Challenge</a> |
 |      37 | 🎯 Obtain Pi With Two Decimals (Challenge)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301367'>Start Challenge</a> |
 |      38 | 🎯 Print Standard Body Temperature in Fahrenheit (Cha... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301377'>Start Challenge</a> |
-|      39 | 🎯 Mastering Database Management with SQL (Challenge)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301327'>Start Challenge</a> |
+|      39 | 🎯 Database Management with SQL (Challenge)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301327'>Start Challenge</a> |
 |      40 | 🎯 View for Course Information (Challenge)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301431'>Start Challenge</a> |
 |      41 | 🎯 SQL Database Creation and Non-Equijoin Query (Chal... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301391'>Start Challenge</a> |
 |      42 | 🎯 Query User Levels With Left Join (Challenge)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301393'>Start Challenge</a> |
@@ -88,12 +88,12 @@ This course contains lots of challenges for MySQL, each challenge is a small MyS
 |      75 | 🎯 Querying Official Languages and Sorting (Challenge... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301397'>Start Challenge</a> |
 |      76 | 🎯 Querying Official Languages of Each Country (Chall... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301399'>Start Challenge</a> |
 |      77 | 🎯 Average Salaries Per Department  (Challenge)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301283'>Start Challenge</a> |
-|      78 | 🎯 Mastering Database Joins for Personnel Data (Chall... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301347'>Start Challenge</a> |
+|      78 | 🎯 Database Joins for Personnel Data (Challenge)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301347'>Start Challenge</a> |
 |      79 | 🎯 Largest Population by Country (Challenge)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301349'>Start Challenge</a> |
 |      80 | 🎯 Largest Population in Five Countries (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301351'>Start Challenge</a> |
 |      81 | 🎯 Changing the Error Log Location (Challenge)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301293'>Start Challenge</a> |
-|      82 | 🎯 Mastering MySQL Data Analysis (Challenge)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301363'>Start Challenge</a> |
-|      83 | 🎯 Mastering SQL Subqueries for Data Analysis (Challe... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301417'>Start Challenge</a> |
+|      82 | 🎯 MySQL Data Analysis (Challenge)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301363'>Start Challenge</a> |
+|      83 | 🎯 SQL Subqueries for Data Analysis (Challenge)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301417'>Start Challenge</a> |
 |      84 | 🎯 SQL Queries for Student Course Analysis (Challenge... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301324'>Start Challenge</a> |
 |      85 | 🎯 Build URL Shortener with Flask MySQL (Challenge)      | ★★★          | <a target='_blank' href='https://labex.io/labs/299511'>Start Challenge</a> |
 
